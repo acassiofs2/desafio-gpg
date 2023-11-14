@@ -1,1 +1,1 @@
-# desafio-gpg
+# desafio-gpg curso fullcycle
